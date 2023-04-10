@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hello There 👋, I'm Onur Eren Taşcı</h1></strong>
+<h1 align="center"><strong>Hello There 👋, I'm Onur</h1></strong>
 <div align="center">
 <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
 </div>
