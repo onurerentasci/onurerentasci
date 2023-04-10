@@ -1,10 +1,10 @@
 <h1 align="center"><strong>Hello There 👋, I'm Onur Eren Taşcı</h1></strong>
 <div align="center">
 <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif">
-</div><br>
+</div>
 <div>
 
-- 🔭 I'm Working as a Frontend Developer for a Mobile app
+- 🔭 I'm Working as a Frontend Developer for a mobile app
 
 - 💪 Currently learning <strong>React Native</strong>
 
