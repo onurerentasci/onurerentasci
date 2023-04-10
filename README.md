@@ -46,6 +46,5 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurerentasci&langs_count=4)](https://github.com/anuraghazra/github-readme-stats&theme=transparent" />
 </a>
 
-</div>
-<figure><embed src="https://wakatime.com/share/@cb0712ea-dd5d-4384-8138-b5ea986c6b56/8703920a-07fe-4b08-9b84-f0a1173af8cb.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@cb0712ea-dd5d-4384-8138-b5ea986c6b56/fad4f0a6-d766-43be-b705-25e46f9feeca.png" width= "600" />
 </div>
