@@ -40,11 +40,8 @@
   <br>
 <div  style="display:flex; flex-direction:row; justify-content:space-between; align-items:center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=onurerentasci&theme=transparent&hide_border=true&border_radius=16.3&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurerentasci&langs_count=4)](https://github.com/anuraghazra/github-readme-stats&theme=transparent" />
-</a>
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@cb0712ea-dd5d-4384-8138-b5ea986c6b56/bb583b60-4bb1-4593-b4d8-b8cd131d4075.svg" width= "600" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=onurerentasci&theme=transparent&hide_border=true&border_radius=16.3&layout=compactdate_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+    
 </div>
