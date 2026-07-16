@@ -27,15 +27,6 @@ I build production-ready experiences across iOS and Android, taking products fro
 
 > My favorite problems live between the interface and the inference.
 
-## Selected work
-
-| Product | What it does | Built with |
-| :--- | :--- | :--- |
-| **[NannAI](https://onurerentasci.com/#projects)** | On-device health assistant for food recognition, calorie tracking and personalized allergen insights. | `React Native` `YOLO11` `Deep Learning` |
-| **[Tennis Analysis ML](https://github.com/onurerentasci/tennis_analysis_ml)** | Detects court keypoints, players and ball movement, then maps the match to a real-time minimap. | `PyTorch` `ResNet50` `OpenCV` |
-| **[Genera](https://github.com/onurerentasci/Genera)** | Generative-image social platform with profiles, galleries and real-time interactions. | `Next.js` `Node.js` `MongoDB` |
-| **[Artify](https://github.com/onurerentasci/Artify)** | Mobile AI image generation experience powered by Stable Diffusion APIs. | `Expo` `React Native` `Firebase` |
-
 ## Core stack
 
 <p>
