@@ -1,0 +1,64 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Onur Eren Taşcı — Mobile Engineer</title>
+  <desc id="desc">Dark editorial profile banner with amber accents, mobile interface geometry and connected AI nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08090D"/>
+      <stop offset="0.58" stop-color="#0B0D13"/>
+      <stop offset="1" stop-color="#12100B"/>
+    </linearGradient>
+    <linearGradient id="amber" x1="820" y1="56" x2="1090" y2="306" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB000"/>
+      <stop offset="1" stop-color="#F27A00"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="72" cy="55" r="5" fill="#FFB000"/>
+    <text x="89" y="60" fill="#A5A9B4" font-size="13" font-weight="700" letter-spacing="3">MOBILE ENGINEER · APPLIED AI</text>
+
+    <text x="70" y="160" fill="#F7F7F8" font-size="76" font-weight="800" letter-spacing="-3">ONUR EREN</text>
+    <text x="70" y="245" fill="#F7F7F8" font-size="76" font-weight="800" letter-spacing="-3">TAŞCI<tspan fill="#FFB000">.</tspan></text>
+
+    <rect x="71" y="283" width="36" height="2" fill="#FFB000"/>
+    <text x="122" y="289" fill="#858B98" font-size="14" font-weight="600" letter-spacing="2.1">REACT NATIVE / NATIVE MOBILE / COMPUTER VISION</text>
+    <text x="70" y="326" fill="#595F6B" font-size="11" font-weight="700" letter-spacing="2.5">SAMSUN · TÜRKİYE</text>
+  </g>
+
+  <g opacity="0.95">
+    <circle cx="985" cy="177" r="117" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <circle cx="985" cy="177" r="82" stroke="#FFFFFF" stroke-opacity="0.06"/>
+    <circle cx="985" cy="177" r="45" fill="#FFB000" fill-opacity="0.05" stroke="#FFB000" stroke-opacity="0.28"/>
+
+    <path d="M846 99L914 135L985 177L1059 114L1121 153" stroke="#343944" stroke-width="1.5"/>
+    <path d="M847 260L923 217L985 177L1062 244L1126 215" stroke="#343944" stroke-width="1.5"/>
+    <path d="M914 135L923 217M1059 114L1062 244" stroke="#252A34" stroke-width="1.5"/>
+
+    <circle cx="846" cy="99" r="4" fill="#646B78"/>
+    <circle cx="914" cy="135" r="5" fill="#FFB000"/>
+    <circle cx="923" cy="217" r="4" fill="#646B78"/>
+    <circle cx="1059" cy="114" r="4" fill="#646B78"/>
+    <circle cx="1062" cy="244" r="5" fill="#FFB000"/>
+    <circle cx="1121" cy="153" r="4" fill="#646B78"/>
+    <circle cx="1126" cy="215" r="4" fill="#646B78"/>
+
+    <circle cx="985" cy="177" r="23" fill="#FFB000" fill-opacity="0.22" filter="url(#glow)"/>
+    <rect x="947" y="114" width="76" height="126" rx="17" fill="#0B0D12" stroke="url(#amber)" stroke-width="2"/>
+    <rect x="955" y="126" width="60" height="90" rx="10" fill="#11151D"/>
+    <path d="M965 196L977 183L988 190L1007 165" stroke="#FFB000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="985" cy="228" r="4" fill="#4B515D"/>
+  </g>
+
+  <path d="M1158 52V91" stroke="#FFB000" stroke-width="3"/>
+  <path d="M1158 269V308" stroke="#FFB000" stroke-width="3"/>
+</svg>
