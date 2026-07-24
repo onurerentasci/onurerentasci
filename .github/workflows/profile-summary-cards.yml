@@ -21,12 +21,48 @@ jobs:
 
       - uses: vn7n24fzkq/github-profile-summary-cards@4a9822e91a20eae650b9591769569976f0d578ba
         env:
-          # Add SUMMARY_GITHUB_TOKEN to include aggregate private-repository activity.
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: 3
           THEME: github_dark
           EXCLUDE: ""
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+
+      - name: Fetch contribution activity graph
+        shell: bash
+        run: |
+          output_dir="profile-summary-card-output/github_dark"
+          activity_file="$(mktemp)"
+          mkdir -p "$output_dir"
+          curl \
+            --fail \
+            --location \
+            --retry 5 \
+            --retry-all-errors \
+            --retry-delay 5 \
+            --connect-timeout 15 \
+            --max-time 90 \
+            "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&bg_color=0B0D13&color=A5A9B4&line=FFB000&point=FFF7E6&area=true&area_color=FFB000&border_color=252A34&radius=12&days=45&custom_title=Contribution%20activity" \
+            --output "$activity_file"
+          grep -q "<svg" "$activity_file"
+          mv "$activity_file" "$output_dir/0-activity.svg"
+
+      - name: Keep only README assets
+        shell: bash
+        run: |
+          rm -f \
+            profile-summary-card-output/README.md \
+            profile-summary-card-output/github_dark/README.md \
+            profile-summary-card-output/github_dark/1-repos-per-language.svg
+
+      - name: Commit generated cards
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update profile activity cards"
+          git push
