@@ -1,64 +1,53 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Onur Eren Taşcı — Mobile Engineer</title>
-  <desc id="desc">Dark editorial profile banner with amber accents, mobile interface geometry and connected AI nodes.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#08090D"/>
-      <stop offset="0.58" stop-color="#0B0D13"/>
-      <stop offset="1" stop-color="#12100B"/>
-    </linearGradient>
-    <linearGradient id="amber" x1="820" y1="56" x2="1090" y2="306" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFB000"/>
-      <stop offset="1" stop-color="#F27A00"/>
-    </linearGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity="0.035"/>
-    </pattern>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="8"/>
-    </filter>
-  </defs>
+  <title id="title">Onur Eren Taşcı — Mobile Engineer · Mobile AI</title>
+  <desc id="desc">A dark editorial banner with Onur Eren Taşcı's name and an abstract signal field representing native interfaces flowing into on-device intelligence.</desc>
 
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#FFFFFF" stroke-opacity="0.09"/>
-  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="24" fill="#080A0B"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" stroke="#292D2E"/>
 
-  <g font-family="Arial, Helvetica, sans-serif">
-    <circle cx="72" cy="55" r="5" fill="#FFB000"/>
-    <text x="89" y="60" fill="#A5A9B4" font-size="13" font-weight="700" letter-spacing="3">MOBILE ENGINEER · APPLIED AI</text>
+  <path d="M24 76V24H76" stroke="#FFB000" stroke-width="2"/>
+  <path d="M1124 336H1176V284" stroke="#FFB000" stroke-width="2"/>
 
-    <text x="70" y="160" fill="#F7F7F8" font-size="76" font-weight="800" letter-spacing="-3">ONUR EREN</text>
-    <text x="70" y="245" fill="#F7F7F8" font-size="76" font-weight="800" letter-spacing="-3">TAŞCI<tspan fill="#FFB000">.</tspan></text>
+  <path d="M70 60H790" stroke="#111415"/>
+  <path d="M70 300H790" stroke="#111415"/>
 
-    <rect x="71" y="283" width="36" height="2" fill="#FFB000"/>
-    <text x="122" y="289" fill="#858B98" font-size="14" font-weight="600" letter-spacing="2.1">REACT NATIVE / NATIVE MOBILE / COMPUTER VISION</text>
-    <text x="70" y="326" fill="#595F6B" font-size="11" font-weight="700" letter-spacing="2.5">SAMSUN · TÜRKİYE</text>
+  <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="70" y="166" fill="#F3F0E8" font-size="70" font-weight="800" letter-spacing="-2.4">ONUR EREN TAŞCI</text>
+
+    <circle cx="78" cy="218" r="6" fill="#FFB000"/>
+    <text x="100" y="231" fill="#9B9D98" font-size="34" font-weight="700" letter-spacing="2.6">MOBILE ENGINEER · MOBILE AI</text>
+
+    <path d="M70 273H256" stroke="#FFB000" stroke-width="3"/>
+    <path d="M256 273H758" stroke="#292D2E" stroke-width="3"/>
+    <rect x="758" y="267" width="12" height="12" fill="#080A0B" stroke="#FFB000" stroke-width="3"/>
   </g>
 
-  <g opacity="0.95">
-    <circle cx="985" cy="177" r="117" stroke="#FFFFFF" stroke-opacity="0.08"/>
-    <circle cx="985" cy="177" r="82" stroke="#FFFFFF" stroke-opacity="0.06"/>
-    <circle cx="985" cy="177" r="45" fill="#FFB000" fill-opacity="0.05" stroke="#FFB000" stroke-opacity="0.28"/>
+  <g aria-hidden="true">
+    <path d="M826 315C870 281 887 257 902 220C925 164 914 125 963 91C1003 63 1050 66 1093 51C1122 41 1148 26 1172 9" stroke="#141718" stroke-width="2"/>
+    <path d="M844 326C891 290 907 263 923 226C946 172 936 135 982 103C1022 76 1067 78 1108 64C1134 55 1156 42 1177 27" stroke="#1C2021" stroke-width="2"/>
+    <path d="M812 292C856 262 876 238 890 200C910 147 902 108 948 77C988 49 1036 53 1079 38C1111 27 1138 11 1162 -8" stroke="#101314" stroke-width="2"/>
 
-    <path d="M846 99L914 135L985 177L1059 114L1121 153" stroke="#343944" stroke-width="1.5"/>
-    <path d="M847 260L923 217L985 177L1062 244L1126 215" stroke="#343944" stroke-width="1.5"/>
-    <path d="M914 135L923 217M1059 114L1062 244" stroke="#252A34" stroke-width="1.5"/>
+    <path d="M830 302C882 270 892 228 925 201C955 176 977 172 994 143C1017 104 1033 87 1073 76C1112 66 1141 47 1172 22" stroke="#5C615F" stroke-width="2"/>
+    <path d="M824 278C876 253 889 213 932 188C966 169 982 145 1004 121C1027 96 1054 88 1088 81C1124 73 1148 57 1175 39" stroke="#FFB000" stroke-width="4"/>
 
-    <circle cx="846" cy="99" r="4" fill="#646B78"/>
-    <circle cx="914" cy="135" r="5" fill="#FFB000"/>
-    <circle cx="923" cy="217" r="4" fill="#646B78"/>
-    <circle cx="1059" cy="114" r="4" fill="#646B78"/>
-    <circle cx="1062" cy="244" r="5" fill="#FFB000"/>
-    <circle cx="1121" cy="153" r="4" fill="#646B78"/>
-    <circle cx="1126" cy="215" r="4" fill="#646B78"/>
+    <path d="M866 54V306" stroke="#131617"/>
+    <path d="M954 54V306" stroke="#1B1F20"/>
+    <path d="M1042 54V306" stroke="#1B1F20"/>
+    <path d="M1130 54V306" stroke="#131617"/>
 
-    <circle cx="985" cy="177" r="23" fill="#FFB000" fill-opacity="0.22" filter="url(#glow)"/>
-    <rect x="947" y="114" width="76" height="126" rx="17" fill="#0B0D12" stroke="url(#amber)" stroke-width="2"/>
-    <rect x="955" y="126" width="60" height="90" rx="10" fill="#11151D"/>
-    <path d="M965 196L977 183L988 190L1007 165" stroke="#FFB000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="985" cy="228" r="4" fill="#4B515D"/>
+    <circle cx="932" cy="188" r="7" fill="#080A0B" stroke="#F3F0E8" stroke-width="3"/>
+    <circle cx="1004" cy="121" r="8" fill="#080A0B" stroke="#FFB000" stroke-width="3"/>
+    <rect x="1082" y="75" width="12" height="12" fill="#080A0B" stroke="#FFB000" stroke-width="3"/>
+
+    <path d="M975 92H958V109" stroke="#424745" stroke-width="2"/>
+    <path d="M1033 92H1050V109" stroke="#424745" stroke-width="2"/>
+    <path d="M975 150H958V133" stroke="#424745" stroke-width="2"/>
+    <path d="M1033 150H1050V133" stroke="#424745" stroke-width="2"/>
+
+    <circle cx="1004" cy="121" r="35" stroke="#202425"/>
+    <circle cx="1004" cy="121" r="60" stroke="#111415"/>
+
+    <path d="M814 180H827" stroke="#FFB000" stroke-width="3"/>
+    <path d="M1173 180H1186" stroke="#F3F0E8" stroke-width="3"/>
   </g>
-
-  <path d="M1158 52V91" stroke="#FFB000" stroke-width="3"/>
-  <path d="M1158 269V308" stroke="#FFB000" stroke-width="3"/>
 </svg>
