@@ -55,7 +55,7 @@ jobs:
           rm -f \
             profile-summary-card-output/README.md \
             profile-summary-card-output/github_dark/README.md \
-            profile-summary-card-output/github_dark/1-repos-per-language.svg
+            profile-summary-card-output/github_dark/4-productive-time.svg
 
       - name: Commit generated cards
         shell: bash

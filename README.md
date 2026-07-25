@@ -33,11 +33,37 @@ I'm part of [Vespula](https://vespula.com.tr/en)'s three-person core team as **M
 
 ### Core stack
 
-**Mobile** — React Native, Expo, TypeScript, Swift, native modules, Reanimated, RevenueCat
+<p>
+  <strong>Mobile</strong>
+  <br /><br />
+  <a href="https://reactnative.dev/"><img src="https://cdn.simpleicons.org/react/FFB000" width="38" height="38" alt="React Native" title="React Native" /></a>&nbsp;&nbsp;
+  <a href="https://expo.dev/"><img src="https://cdn.simpleicons.org/expo/FFB000" width="38" height="38" alt="Expo" title="Expo" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/FFB000" width="38" height="38" alt="TypeScript" title="TypeScript" /></a>&nbsp;&nbsp;
+  <a href="https://www.swift.org/"><img src="https://cdn.simpleicons.org/swift/FFB000" width="38" height="38" alt="Swift" title="Swift" /></a>&nbsp;&nbsp;
+  <a href="https://docs.swmansion.com/react-native-reanimated/"><img src="./assets/reanimated.svg" width="66" height="38" alt="React Native Reanimated" title="React Native Reanimated" /></a>&nbsp;&nbsp;
+  <a href="https://www.revenuecat.com/"><img src="https://cdn.simpleicons.org/revenuecat/FFB000" width="38" height="38" alt="RevenueCat" title="RevenueCat" /></a>
+</p>
 
-**AI & vision** — Python, PyTorch, YOLO, OpenCV, on-device inference
+<p>
+  <strong>AI &amp; vision</strong>
+  <br /><br />
+  <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/FFB000" width="38" height="38" alt="Python" title="Python" /></a>&nbsp;&nbsp;
+  <a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/FFB000" width="38" height="38" alt="PyTorch" title="PyTorch" /></a>&nbsp;&nbsp;
+  <a href="https://www.ultralytics.com/yolo"><img src="https://cdn.simpleicons.org/yolo/FFB000" width="38" height="38" alt="YOLO" title="YOLO" /></a>&nbsp;&nbsp;
+  <a href="https://opencv.org/"><img src="https://cdn.simpleicons.org/opencv/FFB000" width="38" height="38" alt="OpenCV" title="OpenCV" /></a>
+</p>
 
-**Product platform** — Node.js, Firebase, Supabase, PostgreSQL, MongoDB, Docker, CI/CD
+<p>
+  <strong>Product platform</strong>
+  <br /><br />
+  <a href="https://nodejs.org/"><img src="https://cdn.simpleicons.org/nodedotjs/FFB000" width="38" height="38" alt="Node.js" title="Node.js" /></a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com/"><img src="https://cdn.simpleicons.org/firebase/FFB000" width="38" height="38" alt="Firebase" title="Firebase" /></a>&nbsp;&nbsp;
+  <a href="https://supabase.com/"><img src="https://cdn.simpleicons.org/supabase/FFB000" width="38" height="38" alt="Supabase" title="Supabase" /></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/FFB000" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" /></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/FFB000" width="38" height="38" alt="MongoDB" title="MongoDB" /></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/FFB000" width="38" height="38" alt="Docker" title="Docker" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/features/actions"><img src="https://cdn.simpleicons.org/githubactions/FFB000" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" /></a>
+</p>
 
 ### Beyond the app layer
 
@@ -53,7 +79,7 @@ I'm part of [Vespula](https://vespula.com.tr/en)'s three-person core team as **M
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Onur's productive commit times in UTC+3" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages used across Onur's repositories" />
   <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Languages used most often in Onur's commits" />
 </p>
 
